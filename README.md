@@ -8,6 +8,8 @@ Currently Learning
 - Java
 - DSA
 - Git
+- DBMS
+- SQL
 - Spring Boot (Coming Soon)
 
 Goals
